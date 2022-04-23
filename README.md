@@ -1,2 +1,2 @@
 # PyNewsFA
-A place for sharing tutorials from PyNewsFA channel (http://t.me/PyNewsFA)
+A place for sharing tutorials from PySchoolFA channel (http://t.me/PySchoolFA)
